@@ -1,0 +1,3 @@
+enum ConvertTo{
+  ACRE_BIGHA_KATTHA, ROPANI_ANA_PAISA_DAM
+}

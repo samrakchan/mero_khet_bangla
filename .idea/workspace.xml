@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="addT" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d159e890-5b11-4cf9-92d8-4875262d2bf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/icon/web_hi_res_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/mero_khet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/about.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/about.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/admob_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/admob_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/calculation/BighaConverter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/calculation/BighaConverter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/calculation/ConvertTo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/calculation/ConvertTo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/calculation/ConverterFactory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/calculation/ConverterFactory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/land_converter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/land_converter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/land_converter_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/land_converter_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="FavoritesManager">
+    <favorites_list name="mero_khet_bangla" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fG2MAC6kyaGkdGrvrlQLbRkW6P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="google-pixel_3_xl-895Y0438T" />
+    <property name="DEBUGGABLE_PROCESS" value="com.kepler.mero_khet" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app/src/main/res" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app/src/main/res" />
+      <recent name="$PROJECT_DIR$/icon" />
+      <recent name="$PROJECT_DIR$/lib/assets/fonts" />
+      <recent name="$PROJECT_DIR$/jks" />
+      <recent name="$PROJECT_DIR$/lib/assets/icon" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d159e890-5b11-4cf9-92d8-4875262d2bf5" name="Default Changelist" comment="" />
+      <created>1595830058379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595830058379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="77" key="#Updates" timestamp="1601128231085">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="238" y="77" key="#Updates/4.23.1276.777@4.23.1276.777" timestamp="1601128231085" />
+    <state x="72" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602320669625">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="72" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.23.1276.777@4.23.1276.777" timestamp="1602320669625" />
+    <state x="328" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600947341368">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="328" y="221" key="#com.intellij.fileTypes.FileTypeChooser/4.23.1276.777@4.23.1276.777" timestamp="1600947341368" />
+    <state x="455" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1601111504553">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="455" y="134" key="#com.intellij.ide.util.MemberChooser/4.23.1276.777@4.23.1276.777" timestamp="1601111504553" />
+    <state x="330" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601533187670">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="330" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/4.23.1276.777@4.23.1276.777" timestamp="1601533187670" />
+    <state x="505" y="183" key="AndroidProcessChooserDialog" timestamp="1598702888572">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="505" y="183" key="AndroidProcessChooserDialog/4.23.1276.777@4.23.1276.777" timestamp="1598702888572" />
+    <state width="848" height="256" key="GridCell.Tab.0.bottom" timestamp="1602349463461">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state width="848" height="256" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1602349463461" />
+    <state width="848" height="256" key="GridCell.Tab.0.center" timestamp="1602349463460">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state width="848" height="256" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1602349463460" />
+    <state width="848" height="256" key="GridCell.Tab.0.left" timestamp="1602349463460">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state width="848" height="256" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1602349463460" />
+    <state width="848" height="256" key="GridCell.Tab.0.right" timestamp="1602349463461">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state width="848" height="256" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1602349463461" />
+    <state x="104" y="123" width="1076" height="577" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600937432458">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="104" y="123" width="1076" height="577" key="com.android.tools.idea.avdmanager.AvdListDialog/4.23.1276.777@4.23.1276.777" timestamp="1600937432458" />
+    <state x="300" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1602438803883">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="300" y="244" key="com.intellij.ide.util.TipDialog/4.23.1276.777@4.23.1276.777" timestamp="1602438803883" />
+    <state width="300" height="83" key="javadoc.popup.new" timestamp="1602321093701">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state width="300" height="83" key="javadoc.popup.new/4.23.1276.777@4.23.1276.777" timestamp="1602321093701" />
+    <state x="307" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1600770794254">
+      <screen x="4" y="23" width="1276" height="777" />
+    </state>
+    <state x="307" y="124" width="670" height="676" key="search.everywhere.popup/4.23.1276.777@4.23.1276.777" timestamp="1600770794254" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/calculation/BighaConverter.dart</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/calculation/BighaConverter.dart</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/land_converter.dart</url>
+          <line>54</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
